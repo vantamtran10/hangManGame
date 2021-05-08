@@ -1,0 +1,16 @@
+#main_img{
+    width: 300px;
+    height: 500px;
+}
+#main_dashes{
+    font-size: 5em;
+}
+#main_alphabet a{
+    border: 1px solid #eee;
+}
+#main_replay{
+    margin-top: 5px;
+}
+#toast-container{
+    width: 15%;
+}
